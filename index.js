@@ -1,4 +1,5 @@
 const secondHand = document.querySelector('.second-hand'); 
+const minHand = document.querySelector('.min-hand');
 
 function setDate() {
  const now = new Date(); 
