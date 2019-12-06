@@ -12,3 +12,4 @@
 - HTML
 - CSS
 - Javascript
+- Background image from unsplash.com 
