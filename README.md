@@ -5,7 +5,7 @@
 
 ## Features 
 
-- Fully functional analog. 
+- Fully functional analog clock. 
 
 ## Tech Used / Dependencies
 
